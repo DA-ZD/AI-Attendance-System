@@ -28,6 +28,7 @@ gfpgan/
 Thumbs.db
 .vscode/
 .idea/
+.claude/
 
 # ── Test images (optional — remove this if you want them tracked) ──
 test_img.jpg
